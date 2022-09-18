@@ -18,6 +18,11 @@ After entering the data, the sensor restarts and the RGB LED lights up as follow
 Note: If the WLAN connection cannot be established for about 15 minutes, the "Captive Portal" will be started!
 
 # Software:
+<br>
+New from version 1.0.9: <br>
+Now with Arduino OTA. <br>
+Sketch updates without a USB cable over the network <br>
+<br>
 A "captive portal" is created when the software is started for the first time. (Name = Plant-Monitor) <br>
 Make the appropriate entries here. A website can be opened via the assigned IP address or with the Hostname. <br>
 (The Hostname is "Sensorname".local - Example: kitchenplant.local) <br>
