@@ -18,6 +18,10 @@ After entering the data, the sensor restarts and the RGB LED lights up as follow
 Note: If the WLAN connection cannot be established for about 15 minutes, the "Captive Portal" will be started!
 
 # Software:
+New from version 1.2.1: <br>
+new Captive Portal (WiFi-Manager) <br>
+bug fix <br>
+<br>
 New from version 1.0.9: <br>
 Now with Arduino OTA. <br>
 Sketch updates without a USB cable over the network <br>
